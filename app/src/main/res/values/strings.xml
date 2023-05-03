@@ -1,3 +1,14 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">CocktailRecipe</string>
+
+    <string name="faust_recipe">Faust\n@Recipe：\n •⅓ oz Yukon Jack\n •⅓ oz Jagermeister\n •⅓ oz Bacardi 151 Rum</string>
+    <string name="oldfashioned_recipe">Oldfashioned\n@Recipe:\n •1 teaspoon sugar\n •3 dashes Angostura bitters\n •1 teaspoon water\n •2 oz bourbon\n •Garnish: orange twist</string>
+    <string name="screwdriver_recipe">Screwdriver\n@Recipe:\n •1½ oz vodka\n •Orange juice, to top</string>
+    <string name="cosmopolitan_recipe">Cosmopolitan\n@Recipe:\n •1½ oz citron vodka\n •¾ oz Cointreau\n •¾ oz lime juice\n •½ oz cranberry juice cocktail\n •Garnish: lime wedge</string>
+    <string name="godfather_recipe">Godfather\n@Recipe:\n •2 oz blended scotch or bourbon\n •¼ oz amaretto</string>
+    <string name="manhattan_recipe">Manhattan\n@Recipe:\n •2 oz rye whiskey\n •1 oz sweet vermouth\n •2 dashes Angostura bitters\n •Garnish:brandied cherry (or lemon twist, if preferred)</string>
+    <string name="eggnog_recipe">Eggnog\n@Recipe:\n •2 eggs,separated\n •¼ cup sugar, divided\n •1½ cups whole milk\n •½ cup heavy cream\n •½ cup rum, bourbon or brandy\n •Garnish:nutmeg</string>
+    <string name="martini_recipe">Martini\n@Recipe:\n •2½ oz gin\n •½ oz dry vermouth\n •1 dash orange bitters\n •Garnish:Garnish: lemon twists</string>
+    <string name="mojito_recipe">Mojito\n@Recipe:\n •3 mint leaves\n •½ oz simple syrup\n •2 oz white rum\n •¾ oz lime juice\n •soda, to top\n •Garnish: mint sprig,lime wheel</string>
+
 </resources>
